@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    background-color: #cbffce;
+}
+
+header {
+    background-color: #679267;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    background-color: #ffffff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#profil h3 {
+    margin-top: 120px;
+    margin-bottom: 5px;
+}
+
+#profil p {
+    margin-top: 50px;
+    font-size: large;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: aliceblue;
+}
+
+table th {
+    background-color: #cbffce;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+#keterampilan ul {
+    font-size: 18px; 
+    padding-left: 30px;
+}
+
+#keterampilan ul li {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+#kontak p {
+    margin: 6px;
+}
+
+
+.profil {
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin: 20px ;
+    border-radius: 50%;
+}
